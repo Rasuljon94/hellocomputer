@@ -1,0 +1,19 @@
+// gitga kiritlgan o`zgarishlar 
+
+git status 
+
+// gitdagi o`zgarishlarni yuklab olish Agar o`zgarishlar ikkinchi shax tomonidan kiritilgan bo`lsa
+ 
+git pull
+
+// kiritligan o`zgarishlarni gitga saqlash 
+
+git add .
+
+// kiritlgan o`zgarishlarni commit ga olish
+
+git commit -m "kiritlgan ozgarish nomi"    
+
+//o`zgarishlarni githubga yuborish
+
+git push
