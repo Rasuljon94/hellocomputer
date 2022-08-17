@@ -12,8 +12,14 @@ git add .
 
 // kiritlgan o`zgarishlarni commit ga olish
 
-git commit -m "kiritlgan ozgarish nomi"    
+git commit -m "kiritlgan ozgarish nomi"    // bundan keyin o`zgarishlar gitga olinadi
 
 //o`zgarishlarni githubga yuborish
 
 git push
+
+
+
+Asosiy commandalar shular like ok rahmat Lochin men bir sinab ko'raychi kechga gaplashamiz ok ha aytgancha rasmlarni qaysi papkaga qo'shaman
+
+img papkaga solasiz // bo`limiga qarab o'sha yerga mi   ha albatta ok charchamang aha hop
